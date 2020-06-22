@@ -1,4 +1,4 @@
-# ErectRus
+# ErectRus   Fallout 76 v 1.3.1.34
 Author: ErectBAN
 
 Cyrillic Mod: Nr0Pb
